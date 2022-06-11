@@ -51,6 +51,8 @@ Proporciona servicos de bases de datos para una amplia variedad de tipos y volum
 ![Tablas](Imagenes/acavemosotraconsultaconTablasyResultados.PNG)
 
 10.- Si queremos agregar un dato, debemos poner el comando **INSERT INTO** Inventory **(nombre de la tabla)** **(Id, Inventory.Name, Stock)** **values(8, 'Strawberry', 500);**.
+
+
 ![Insertar Consulta Nueva](Imagenes/InsertarConsltaSQL.PNG)
 
 11.- Podemos selecionar las consultas mediante el comando **SELECT * FROM Inventory** y asi vemos lo que acabamos de editar.
